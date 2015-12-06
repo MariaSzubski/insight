@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'inSight_v1' target in the 'inSight_v1' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
