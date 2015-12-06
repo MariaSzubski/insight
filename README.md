@@ -10,4 +10,5 @@ The test questions in the prototype focus on two science topics — the effect o
 
 The final prototype is a combination of interactive elements and UI animations due to time constraints. It was built in HTML and jQuery, and the wrapped in PhoneGap to create a native iPad app.
 
-Check out http://mariaszubski.com/ws_insight.html for more information about our design process.
+##Research & Design
+Check out http://mariaszubski.com/insight.html for more information about our design process.
